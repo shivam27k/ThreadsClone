@@ -7,8 +7,8 @@ import RightSideBar from '@/components/shared/RightSideBar'
 import BottomBar from '@/components/shared/BottomBar'
 
 export const metadata = {
-	title: 'Threads',
-	description: 'A threads clone created by shivam27k',
+	title: 'Dhaaga',
+	description: 'Uljha hua dhaaga created by shivam27k',
 }
 
 const inter = Inter({ subsets: ['latin'] })

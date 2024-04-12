@@ -1,5 +1,10 @@
 const LeftSideBar = () => {
-	return <h1>LeftSideBar</h1>
+	return (
+		<section className="custom-scrollbar leftsidebar">
+			{/* enough for today  */}
+			{/* code review time */}
+		</section>
+	)
 }
 
 export default LeftSideBar
